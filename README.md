@@ -1,7 +1,6 @@
 ![MasterHead](https://rawadymario.com/assets/img/Your%20Future%20is%20Created...%20-%20Mario%20Rawady%20(Blue).jpg)
 
-<h1 align="center">Hello World. I'm Mario Rawady</h1>  
-<h3 align="center">Legends say I'm the best Software Engineer :)</h3>  
+<h2 align="center">Legends say I'm the best Software Engineer :)</h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawadymario&label=Profile%20Views&color=00ccff&style=flat" alt="rawadymario" /> </p>  
 
