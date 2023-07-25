@@ -3,8 +3,6 @@
 <h2 align="center">Legends say I'm the best Software Engineer :)</h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawadymario&label=Profile%20Views&color=00ccff&style=flat" alt="rawadymario" /> </p>  
-
-[![committers.top badge](https://user-badge.committers.top/lebanon/rawadymario.svg)](https://user-badge.committers.top/lebanon/rawadymario)
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawadymario" alt="rawadymario" /></a> </p>  
   
